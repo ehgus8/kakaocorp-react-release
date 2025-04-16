@@ -36,6 +36,7 @@ const RecommendationSection = ({ firstItem, secondItem }) => {
 
 const NewsList = ({ articleList }) => {
   const [visibleCount, setVisibleCount] = useState(6);
+  console.log(articleList);
 
   const handleLoadMore = () => {
     setVisibleCount((prev) => prev + 6);
