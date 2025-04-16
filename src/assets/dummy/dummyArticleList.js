@@ -6,7 +6,7 @@ const dummyArticleList = [
     tags: ['#프로젝트단골', '#oecd', '#상생사례', '#디지털전환', '#소상공인'],
     date: '2025.04.11',
     category: '보도자료',
-    imgSrc: `${import.meta.env.BASE_URL}/dummy/11517.webp`,
+    imgSrc: `${import.meta.env.BASE_URL}/test/dummy/11517.webp`,
     iconSrc: '../../dummy/loudspeaker.webp',
     content: `- 카카오, 아시아 유일 민간 협력사로 ‘D4SME’ 정례 회의 참석… 소상공인 디지털 전환 지원 사례 소개
   - 북촌 계동길 상인회장이 발표 참여해 현장 경험 전달, “골목상권의 디지털 전환 계기”`,
